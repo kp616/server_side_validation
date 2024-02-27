@@ -1,0 +1,1 @@
+Created a validation of a form submitted, using server side validation instead of client-side validation. Implemented knowledge of servers and javascript via node.js and was able to successfully create a responsive functional website.
